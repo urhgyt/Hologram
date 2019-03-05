@@ -1,0 +1,1 @@
+The project implements various hologram coding methods in which the reference light is parallel light or concentrated light and its corresponding acceleration algorithm.
